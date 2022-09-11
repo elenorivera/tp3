@@ -1,19 +1,24 @@
 
 h1 {
-  font-family: sansita-swashed;
+  font-family: 'sansita swashed';
   font-size: 30px;
+  color: #800000;
 }
 
 h4 {
   margin-bottom: 0;
-  font-family: nato-serif-georgian ;
+  font-family: 'nato serif georgian' ;
   font-size: 20px;
+  Color: #800000;
 }
 
 ul, ol {
   margin-top: 0;
 }
 
+body {
+  color:  #F8F0E3;
+}
 .copyright {
   font-family: Arial;
   font-size: 9px;
