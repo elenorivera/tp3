@@ -1,15 +1,15 @@
 
 h1 {
-  font-family: 'sansita swashed';
-  font-size: 30px;
+  font-family: 'Sansita Swashed', cursive;;
+  font-size: 40px;
   color: #800000;
 }
 
 h4 {
   margin-bottom: 0;
-  font-family: 'nato serif georgian' ;
+  font-family: 'Noto Serif Georgian', serif;;
   font-size: 20px;
-  Color: #800000;
+  Color: #C19A6B;
 }
 
 ul, ol {
@@ -27,5 +27,5 @@ body {
 
 .bold
 {
-  font-style: bold;
+  font-weight: bold;
 }
