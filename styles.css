@@ -1,9 +1,13 @@
+
 h1 {
-  font-family: Arial;
+  font-family: sansita-swashed;
+  font-size: 30px;
 }
 
 h4 {
   margin-bottom: 0;
+  font-family: nato-serif-georgian ;
+  font-size: 20px;
 }
 
 ul, ol {
